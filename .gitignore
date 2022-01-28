@@ -1,3 +1,8 @@
+# VS Code enviromental files
+# Why would this be bad?
+# launch.json 
+*.json   
+
 # Prerequisites
 *.d
 
